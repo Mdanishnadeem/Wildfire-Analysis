@@ -6,7 +6,7 @@ This repository contains notebooks and scripts for wildfire analysis. The projec
 
 ## Data 
 Data for the wildfire was scrapped from https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81 . Specifically Combined_datset was used. The data used for analysis in this
-project is from 1963 to 2023. The city for which the Analysis are done is West Odessa.
+project is from 1963 to 2023. The city for which the Analysis is done is West Odessa.
 
 ## Notebooks
 
