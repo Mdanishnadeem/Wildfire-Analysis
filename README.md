@@ -4,6 +4,9 @@
 
 This repository contains notebooks and scripts for wildfire analysis. The project aims to provide valuable insights into wildfire data, including data scraping, preprocessing, analysis, and visualization.
 
+## Data 
+Data for the wildfire was scrapped from https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81 . Specifically Combined_datset was used 
+
 ## Notebooks
 
 1. **using_reader.ipynb**: This Jupyter notebook is dedicated to scraping wildfire data.
