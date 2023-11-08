@@ -24,6 +24,10 @@ project is from 1963 to 2023. The city for which the Analysis is done is West Od
 
 Feel free to explore the notebooks for detailed information on each step of the wildfire analysis process.
 
+## Graphs 
+
+The graphs folder contains several graphs produced from this analysis
+
 ## Dependencies
 
 Make sure to install the required dependencies before running the notebooks. You can typically find the necessary packages in a `requirements.txt` file or within the notebooks themselves.
