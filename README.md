@@ -31,7 +31,7 @@ project is from 1963 to 2023. The city for which the Analysis is done is West Od
 These data files are essential for conducting analysis related to wildfires and air quality. Feel free to explore and use them for your research and projects.
 
 
-## Notebooks
+# Notebooks
 
 1. **using_reader.ipynb**: This Jupyter notebook is dedicated to scraping wildfire data.
 
@@ -47,12 +47,12 @@ These data files are essential for conducting analysis related to wildfires and 
 
 Feel free to explore the notebooks for detailed information on each step of the wildfire analysis process.
 
-## Graphs 
+# Graphs 
 
 The graphs folder contains several graphs produced from this analysis
 
-## Dependencies
+# Dependencies
 
 Make sure to install the required dependencies before running the notebooks. You can typically find the necessary packages in a `requirements.txt` file or within the notebooks themselves.
 
-## Usage
+# Usage
