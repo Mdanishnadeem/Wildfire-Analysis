@@ -4,13 +4,13 @@
 
 This repository contains notebooks and scripts for wildfire analysis. The project aims to provide valuable insights into wildfire data, including data scraping, preprocessing, analysis, and visualization.
 
-## Data 
-Data for the wildfire was scrapped from https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81 . Specifically Combined_datset was used. The data used for analysis in this
-project is from 1963 to 2023. The city for which the Analysis is done is West Odessa.
 
 # Data Files for Wildfire and Air Quality Analysis
 
 This repository contains data files used in wildfire and air quality analysis, along with a brief explanation of each file.
+
+Data for the wildfire was scrapped from https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81 . Specifically Combined_datset was used. The data used for analysis in this
+project is from 1963 to 2023. The city for which the Analysis is done is West Odessa.
 
 1. **preprocessed_fire_data.csv**: This file contains initial total fire data extracted from a website. It has been processed and converted into a structured DataFrame from raw JSON format. The dataset includes important variables, such as the area affected by fire in acres and the distance in miles from the city of interest, which is West Odessa in this case.
 
