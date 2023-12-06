@@ -2,8 +2,9 @@
 "🔥 Wildfire Analysis Tools 📊  Explore data, scripts, and insights for wildfire analysis. #WildfireAnalysis #DataScience"
 # Wildfire Analysis Project
 
-This repository contains notebooks and scripts for wildfire analysis. The project aims to provide valuable insights into wildfire data, including data scraping, preprocessing, analysis, and visualization.
+This repository contains notebooks and scripts for wildfire analysis. The project aims to provide valuable insights into wildfire data and its relationship with deaths caused to respiratory diseases, specifically for West Odessa, Ector County, Texas. 
 
+This analysis can be easily reproduced through referencing the notebooks as they have been properly documented. 
 
 # Data Files for Wildfire and Air Quality Analysis
 
@@ -11,6 +12,8 @@ This repository contains data files used in wildfire and air quality analysis, a
 
 Data for the wildfire was scrapped from https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81 . Specifically Combined_datset was used. The data used for analysis in this
 project is from 1963 to 2023. The city for which the Analysis is done is West Odessa.
+
+Data for healthcare was extracted from Institute for Health Metrics and Evaluation website https://ghdx.healthdata.org/. The dataset was available from 1980 to 2014. 
 
 1. **preprocessed_fire_data.csv**: This file contains initial total fire data extracted from a website. It has been processed and converted into a structured DataFrame from raw JSON format. The dataset includes important variables, such as the area affected by fire in acres and the distance in miles from the city of interest, which is West Odessa in this case.
 
@@ -28,6 +31,12 @@ project is from 1963 to 2023. The city for which the Analysis is done is West Od
 
 8. **aqi_score_combined.csv**: This file contains the final AQI value and the wildfire impact score calculate for visualisation and prediction purposes.
 
+9. **both_deaths.csv**: This file contains deaths for both genders combined due to Chronic Respiratory Diseases and Chronic Pulmonary Obstructive Diseases
+
+10. **female_deaths.csv**: This file contains deaths for only females due to Chronic Respiratory Diseases and Chronic Pulmonary Obstructive Diseases
+
+11. **male_deaths.csv**: This file contains deaths for only males due to Chronic Respiratory Diseases and Chronic Pulmonary Obstructive Diseases
+
 These data files are essential for conducting analysis related to wildfires and air quality. Feel free to explore and use them for your research and projects.
 
 
@@ -43,7 +52,13 @@ These data files are essential for conducting analysis related to wildfires and 
 
 5. **visualization.ipynb**: Contains code for generating various graphs and visualizations.
 
-6. **forecast.ipynb**: Implements forecasting techniques for wildfire analysis.
+6. **forecast.ipynb**: Implements forecasting techniques for wildfire impact score.
+
+7. **preprocessing_deaths_data.ipynb**: Extracts relevant information for Ector County (Specifically deaths due to Chronic Respiratory Diseases and Chronic Obstructive Pulmonary Disease) for both gender combined and male and females
+
+8. **comparison_score_death.ipynb**: Compares the wildfire score calculated previously and AQI with deaths due to Chronic Respiratory Diseases and Chronic Obstructive Pulmonary Disease)
+
+9. **Forecast_deaths.ipynb**: Implements forecasting techniques for deaths for both genders combined due to Chronic Respiratory Diseases
 
 Feel free to explore the notebooks for detailed information on each step of the wildfire analysis process.
 
