@@ -1,0 +1,71 @@
+,measure_id,measure_name,location_id,location_name,FIPS,cause_id,cause_name,sex_id,sex,age_id,age_name,year_id,metric,mx,lower,upper
+7210,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1980,Rate,56.3306142605684,53.4679199427778,59.2713184645915
+7211,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1981,Rate,57.4077058861977,54.4812558553232,60.4947228657814
+7212,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1982,Rate,57.4269360885952,54.6710149695671,60.3201500057166
+7213,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1983,Rate,59.0442200758681,56.2686760151578,61.8684727758464
+7214,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1984,Rate,60.5770605056408,57.6252237165016,63.6676472412963
+7215,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1985,Rate,63.0931181785289,60.0605604782457,66.0583664597983
+7216,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1986,Rate,64.4143574590172,61.65128849174,67.242087935284
+7217,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1987,Rate,65.7598215213843,62.580524424922,69.0048965793348
+7218,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1988,Rate,69.9258986418686,66.8055916789004,73.0562152271187
+7219,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1989,Rate,69.6762046199025,66.5581921816043,72.6551402686645
+7220,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1990,Rate,71.1626177981277,68.0346596987398,74.5621658813127
+7221,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1991,Rate,73.4053224057248,70.2879792138669,76.6313235122838
+7222,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1992,Rate,74.6068798558763,71.5605262455859,77.9805399079586
+7223,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1993,Rate,78.8309298494413,75.4992066949499,82.3210266626992
+7224,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1994,Rate,79.7978828463099,76.4939175656394,83.3597885733122
+7225,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1995,Rate,82.6838247227996,79.422166693377,86.1093601964699
+7226,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1996,Rate,85.3593480196763,82.0664789656339,88.7215413948856
+7227,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1997,Rate,87.4706945904235,84.052592927604,91.0389511847956
+7228,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1998,Rate,90.7795627279886,87.2057064564026,94.73181259564
+7229,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,1999,Rate,94.0839429822221,90.4083461490229,98.0157496204136
+7230,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2000,Rate,97.1302787059072,93.3841331427872,101.171722965663
+7231,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2001,Rate,100.299154003357,96.4346500494422,104.186961461317
+7232,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2002,Rate,100.647697624909,96.5109273857475,104.780972552008
+7233,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2003,Rate,100.44781566489,96.6686718301051,104.550535484357
+7234,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2004,Rate,100.335208922177,96.2418590443214,104.595039941197
+7235,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2005,Rate,100.31494144902,96.3160804892179,104.46930579783
+7236,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2006,Rate,101.463260993705,97.8445013076637,105.754033478118
+7237,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2007,Rate,100.291295639672,96.5313404141821,104.030685092435
+7238,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2008,Rate,102.018806135277,97.9897651124351,106.315682118216
+7239,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2009,Rate,103.000543833917,98.8103042072507,107.379409867202
+7240,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2010,Rate,101.520423471239,97.6530965963737,105.661051328436
+7241,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2011,Rate,103.222832813373,98.8984610007422,107.817625961514
+7242,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2012,Rate,103.088193441256,98.7430022719515,107.481015608505
+7243,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2013,Rate,101.933820606037,97.6650694517969,106.501574756661
+7244,1,Deaths,3217,Ector County,48135,508,Chronic respiratory diseases,3,Both,27,Age-standardized,2014,Rate,105.830532162132,101.241309600965,110.321114102231
+33985,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1980,Rate,49.2241885906723,45.9517546299269,52.6681262628361
+33986,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1981,Rate,50.3592287595942,47.0709912674417,53.6789798020213
+33987,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1982,Rate,50.4272871466033,47.1861578893765,53.6182440852178
+33988,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1983,Rate,51.9992739936131,48.7421209888849,55.1746380745065
+33989,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1984,Rate,53.3820734880513,49.9378887551444,56.6774512515366
+33990,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1985,Rate,55.6205827771118,52.136911682905,58.8924797184941
+33991,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1986,Rate,56.8741365272425,53.6450288468362,59.9425058099721
+33992,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1987,Rate,58.0604420345801,54.822945088765,61.4358369928947
+33993,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1988,Rate,61.9360811679614,58.4678068437581,65.4446837154586
+33994,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1989,Rate,61.5486103546979,58.4228417010846,64.7348637305765
+33995,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1990,Rate,63.0042984315105,59.8111332843987,66.4299174459994
+33996,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1991,Rate,64.9804665567051,61.5698558101575,68.1998349245411
+33997,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1992,Rate,66.1875479626013,63.0913700396286,69.6033432273201
+33998,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1993,Rate,70.1596404087855,66.8229785534844,73.544317420503
+33999,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1994,Rate,71.0114505483978,67.5041476012691,74.6059341112377
+34000,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1995,Rate,73.594449377406,70.1772780380739,77.1380990278734
+34001,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1996,Rate,76.1494728798826,72.6327321825789,79.5917652163747
+34002,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1997,Rate,78.3201456422327,74.9954582256419,81.9091518998485
+34003,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1998,Rate,81.4850763640452,77.7168061019237,85.2506798541108
+34004,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,1999,Rate,84.3770930665099,80.5302096782129,88.4889221335207
+34005,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2000,Rate,87.3312580734012,83.431292331505,91.3386490114251
+34006,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2001,Rate,90.3303487097751,86.2835736240801,94.4273809850227
+34007,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2002,Rate,90.7084715709523,86.5370560988623,94.9076423682121
+34008,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2003,Rate,90.6349811758961,86.4253117057396,94.9689779198315
+34009,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2004,Rate,90.6431697968866,86.457798003194,95.116879588244
+34010,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2005,Rate,90.639032576587,86.4328727277284,94.8913366274603
+34011,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2006,Rate,91.775536794091,87.8725443189753,96.4273869098464
+34012,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2007,Rate,90.8723634725191,86.953338424531,94.979433849955
+34013,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2008,Rate,92.6187399561002,88.2832401921367,97.2637623126861
+34014,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2009,Rate,93.6264103580591,89.3596579034128,98.0948251907495
+34015,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2010,Rate,92.2251365358049,87.8786052215888,96.6901201792836
+34016,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2011,Rate,93.8176073673068,89.2259183143724,98.554205234054
+34017,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2012,Rate,93.7743374758449,89.0031262151481,98.6847219674513
+34018,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2013,Rate,92.7617734997173,88.1964176706592,97.3286057048595
+34019,1,Deaths,3217,Ector County,48135,509,Chronic obstructive pulmonary disease,3,Both,27,Age-standardized,2014,Rate,96.5155385774952,91.8531948671621,101.36336613423
